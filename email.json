@@ -1,6 +1,1 @@
-const items = document.querySelectorAll('.featured.sale');
-let sum = 0;
-items.forEach(item => {
-    sum += parseInt(item.getAttribute('data-discount'));
-});
-console.log(sum);
+{"email": "24f1001676@ds.study.iitm.ac.in"}
